@@ -5,7 +5,7 @@ My name is Maria Fernanda Almeida! I am currently a Computer Science student at 
 
 👨🏻‍💻  Studying ReactNative, ReactJs and NodeJs
 
-:iphone: I study the mobile market and develop applications
+:iphone: Studying the mobile market and developing applications
 
 :zap: UI / UX design enthusiast
 
