@@ -1,4 +1,4 @@
-### Hi there :octocat:
+### Hi there :rocket:	
 
 My name is Maria Fernanda Almeida! I am currently a Computer Science student at the State University of Maringá.
 
@@ -9,6 +9,9 @@ My name is Maria Fernanda Almeida! I am currently a Computer Science student at 
 :iphone: Studying the mobile market and developing applications
 
 :zap: UI / UX design enthusiast
+
+:octocat: Follow me!
+
 
 
 
