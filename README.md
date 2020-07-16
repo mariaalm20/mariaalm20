@@ -10,3 +10,6 @@ My name is Maria Fernanda Almeida! I am currently a Computer Science student at 
 
 :zap: UI / UX design enthusiast
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-almeida-oliveira-882944187/) 
+
+
